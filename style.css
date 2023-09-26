@@ -204,12 +204,14 @@ button:hover{
 }
 
 .logo{
-    background: url('image/logo-roupa.png') no-repeat;
+    background: url('image/logo to.png') no-repeat;
     background-size: contain;
-    width: 130px;
-    height: 80px;
+    width: 550px;
+    height: 150px;
+
     position: relative;
-    top: 20px;
+    
+    top: 10px;
     z-index: 9;
 }
 
@@ -756,7 +758,7 @@ footer .container p{
     }
 
     .logo{
-        width: 110px;
+        width: 150px;
         top: 10px;
         left: 5px;
     }
