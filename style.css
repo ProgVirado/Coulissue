@@ -587,9 +587,9 @@ header .right .imagem img{
     color: #1B3B56;
 }
 
-
+/* ### numeros distancia ####*/
 #Contact .container .right .box .text{
-    width:150px;
+    width:175px;
     height: 300px;
     display: flex;
     flex-direction: column;
